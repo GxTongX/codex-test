@@ -25,7 +25,7 @@ npm run preview
 1. 将代码推送到 GitHub 仓库。
 2. 打开仓库 **Settings → Pages**。
 3. 在 **Build and deployment** 中选择 **Source: GitHub Actions**。
-4. 推送到 `main` 分支后会自动触发部署。
+4. 推送到 `master` 分支后会自动触发部署。
 
 部署完成后，访问地址通常为：
 
